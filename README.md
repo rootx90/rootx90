@@ -11,8 +11,8 @@ I am a passionate software developer with a keen interest in open source project
 
 ## Projects
 Here are a few projects I've worked on:
-- [Project 1](https://github.com/rootx90/notes): A web application built with Html and Css.
-- [Project 2](https://github.com/rootx90/crazy): A crazy think.
+- [Project 1](https://rootx90.github.io/notes): A web application built with Html and Css.
+- [Project 2](https://rootx90.github.io/crazy/): A crazy think.
 
 ## Get in Touch
 - **Email:** rootx90@example.com
