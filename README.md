@@ -11,9 +11,8 @@ I am a passionate software developer with a keen interest in open source project
 
 ## Projects
 Here are a few projects I've worked on:
-- [Project 1](https://github.com/rootx90/project1): A web application built with React and Node.js.
-- [Project 2](https://github.com/rootx90/project2): A microservices architecture project using Docker and Kubernetes.
-- [Project 3](https://github.com/rootx90/project3): A data analysis tool developed in Python.
+- [Project 1](https://github.com/rootx90/notes): A web application built with Html and Css.
+- [Project 2](https://github.com/rootx90/crazy): A crazy think.
 
 ## Get in Touch
 - **Email:** rootx90@example.com
