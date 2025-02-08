@@ -1,60 +1,47 @@
+<div align="center">
+  
+<!-- Enhanced Animated Text with Multiple Lines and Hacker Style -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&random=false&width=600&height=70&lines=%3E+SYSTEM%3A+Accessing+Profile...;%3E+TARGET%3A+rootx90+%F0%9F%92%80;%3E+STATUS%3A+Elite+Hacker+Mode+%F0%9F%92%BB;%3E+INITIALIZING...+%F0%9F%94%93" alt="Typing SVG" />
+</a>
+
+<!-- Matrix-style Hacker GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+rootx90+%F0%9F%91%8B;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="450"/>
 </p>
 
+<!-- Cool Terminal-style Stats Box -->
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=rootx90&cc=000&tc=00ff00&ic=fff&bc=000" alt="Statistics"/>
+</div>
+
+<!-- Custom Contribution Graph -->
+<a href="https://github.com/rootx90">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rootx90&theme=chartreuse-dark&hide_border=true&point=00FF00&line=00FF00&title_color=00FF00&color=FFFFFF" />
+</a>
+
+<!-- Animated Skill Icons -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,angular,nodejs,django,docker,kubernetes,aws&theme=dark" />
+</div>
+
+<!-- Matrix-style Stats -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380px">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=rootx90&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rootx90&theme=matrix&hide_border=true&background=0D1117">
 </p>
 
+<!-- Glowing Top Languages Card -->
 <p align="center">
-<img src="https://github.com/rootx90/rootx90/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootx90&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117">
+</p>
+
+<!-- Profile Views Counter with Matrix Style -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rootx90&label=Profile+Views&color=00FF00&style=flat" alt="Profile views"/>
 </p>
 
 ## About Me
-I am a passionate software developer with a keen interest in open source projects and cutting-edge technologies. I love learning new programming languages and frameworks, and I'm always looking for interesting challenges to solve.
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rootx90&custom_title=rootx90's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="rootx90's Activity Graph" width="100%">
-</div>
-
-## Skills
-- **Languages:** HTML, CSS, JavaScript, Bash, PHP, Python
-- **Frameworks:** React, Angular, Node.js, Django
-- **Tools:** GitHub, Docker, Kubernetes, Jenkins, AWS
-- **Databases:** MySQL, PostgreSQL, MongoDB
-
-## Projects
-Here are a few projects I've worked on:
-- [Project 1](https://rootx90.github.io/notes): A web application built with Html and Css.
-- [Project 2](https://rootx90.github.io/crazy/): A crazy think.
-
-## Get in Touch
-- **Email:** rootx90@example.com
-- **LinkedIn:** [rootx90](https://www.linkedin.com/in/rootx90)
-- **Twitter:** [@rootx90](https://twitter.com/rootx90)
-
-<div align="center">
-  
-## GitHub Stats
-  
-<img src="https://github-readme-stats.vercel.app/api?username=rootx90&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-## Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootx90&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
-
-## Contributions
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rootx90&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rootx90&style=flat-square&color=blue" alt="Profile views"/>
-</div>
-
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just chat about tech. 😊
-
-<!-- Activity Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rootx90/rootx90/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rootx90/rootx90/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rootx90/rootx90/output/github-contribution-grid-snake.svg">
-</picture>
+```ascii
+┌──[rootx90@github]─[~/profile]
+└──╼ $ cat about.txt
